@@ -4,3 +4,7 @@
 ## Zeek Tool: 
 The following link attached is to the Zeek tool that is used to gather all of the logs and is pushed to Graylog: 
 (https://github.com/Cole-Tompsett/zeek)
+
+## Documentation Resources: 
+In conjuction with the Zeek tool, the documentation link is where the research, and resources that we have created and used is displayed. This includes Google Document links that can be easily accessed, and Youtube videos that has assisted us in the inital set up.  
+(https://github.com/Cole-Tompsett/zeek/blob/main/Document%20Links.md) 
