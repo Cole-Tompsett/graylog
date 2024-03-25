@@ -3,4 +3,4 @@
 
 ## Zeek Tool: 
 The following link attached is to the Zeek tool that is used to gather all of the logs and is pushed to Graylog: 
-https://github.com/Cole-Tompsett/zeek
+(https://github.com/Cole-Tompsett/zeek)
