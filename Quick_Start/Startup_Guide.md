@@ -1,5 +1,12 @@
 # Quick Start Guide
-In the following document, we will go over the following critical steps required when setting up this tool
+In the following document, we will go over the following critical steps required when setting up this tool. This includes the following: 
+- Setting up the Timezone
+- Setting up Docker Compose for Graylog
+- Networking
+- Creating a Password
+- Figuring your Ports out
+- Starting the tool properly through the containers
+
 
 ## Setting the Time
 First we need to ensure that the time is accurate for all these logs that come in so we need to set the timezone to UTC
