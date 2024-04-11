@@ -11,4 +11,5 @@ In conjuction with the Zeek tool, the documentation link is where the research, 
 
 ## QUICKSTART GUIDE: 
 To start off with the setup through Graylog, check out the quick start guide! 
-(
+(https://github.com/Cole-Tompsett/graylog/blob/main/Quick_Start/Startup_Guide.md)
+
